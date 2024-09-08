@@ -1,4 +1,4 @@
-## **README.md - Buscador de Atletas Brasileiros**
+## **Buscador de Atletas Brasileiros - Imersão Dev com Google Gemini**
 
 ### **Sobre o Projeto**
 
